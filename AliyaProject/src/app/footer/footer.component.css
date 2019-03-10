@@ -1,0 +1,14 @@
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 75px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    box-shadow: -1px 2px 6px 0px black;
+  }
+  .fa:hover{
+      opacity: 0.6;
+  }
+  

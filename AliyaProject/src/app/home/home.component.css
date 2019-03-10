@@ -1,0 +1,45 @@
+/*#bg{
+    
+    
+    background-image: url('../../assets/img/body.jpg');
+   
+     background-repeat: no-repeat;
+     height: 900px;
+     background-size: 100%;
+ 
+     
+ 
+
+}
+
+#joinbutton{
+margin-top: 100px;
+transition-timing-function: ease-in-out;
+}
+.uploadimg{
+    height: 200px;
+ margin-left: 100px;
+    background-repeat: no-repeat;
+    background-image: url('https://freeiconshop.com/wp-content/uploads/edd/upload-cloud-outline-filled.png');
+}
+*/
+.bg{
+    background-image: url('../../assets/img/body.jpg');
+    height: auto;
+    background-size: 100%;
+    background-size: cover;
+    width: 100%;
+  
+
+}
+#joinbutton:hover {
+
+    background: black;
+    color: white;
+    width: 40%;
+    
+    }
+    #joinbutton{
+        margin-top: 100px;
+        transition-timing-function: ease-in-out;
+        }
